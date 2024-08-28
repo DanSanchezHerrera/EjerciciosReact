@@ -1,0 +1,10 @@
+.contenedor{
+    padding: 40px;
+}
+.titulo{
+    color: purple;
+}
+
+.contenedor .MuiIconButton-root {
+    margin: 0;
+}

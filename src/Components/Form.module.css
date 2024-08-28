@@ -1,0 +1,38 @@
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.elemento {
+    margin-bottom: 10px; 
+    align-self: center;
+    margin-right: 5px;
+}
+
+.banana{
+    color: rgb(202, 202, 39);
+    font-size: 30px;
+    align-self: center;
+}
+
+.manzana{
+    color: rgb(117, 4, 4);
+    font-size: 30px;
+    align-self: center;
+}
+
+.durazno{
+    color: peachpuff;
+    font-size: 30px;
+    align-self: center;
+}
+
+.uva{
+    color: rebeccapurple;
+    font-size: 30px;
+    align-self: center;
+}

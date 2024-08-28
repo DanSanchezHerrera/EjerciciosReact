@@ -1,0 +1,11 @@
+.titulo{
+    color: purple;
+    margin-top: 10px;
+}
+
+.titulo .MuiIconButton-root {
+    margin: 0;
+    margin-top: 10px;
+    align-self: center;
+    align-content: center;
+}
